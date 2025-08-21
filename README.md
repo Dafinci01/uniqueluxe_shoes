@@ -161,8 +161,3 @@ This project is licensed under the **MIT License**.
 See the [LICENSE](LICENSE) file for more details.
 
 ```
-
----
-
-If you want, I can create a **ready-to-use GitHub Actions workflow** to automate testing and deployment for this project. It will give your repo a professional touch. Would you like me to do that?
-```
